@@ -88,6 +88,9 @@ label.logo {
     margin-right: 60px;
 }
 
+a{
+    color: black;
+}
 .img1 {
     display: inline;
     vertical-align: middle;
@@ -203,8 +206,7 @@ tr:nth-child(odd) {
 
 li:hover {
     position: static;
-    background-color: rgb(176, 216, 243);
-    border: 1px solid rgb(113, 22, 232);
+    text-decoration: underline blue;
 }
 
 .pr {
